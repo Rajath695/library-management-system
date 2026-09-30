@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Credentials — never commit these
+config.properties
+.env
+_pycache__/
+# Java build artifacts
+out/
+target/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local test file
+TestDB.java
